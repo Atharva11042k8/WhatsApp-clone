@@ -1,4 +1,3 @@
-
 var msg;var name;var src;
 window.onload = function(){
     $(".loading").fadeOut(300);
